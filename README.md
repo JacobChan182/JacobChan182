@@ -1,15 +1,15 @@
 ### Hi, I’m Jacob 👋
 
-I’m a CS co-op student at the University of Toronto, interested in full‑stack development, AI, and developer tooling.[web:3] I enjoy turning ideas into usable products quickly, especially in hackathon and startup-style environments.
+I’m a CS co-op student at the University of Toronto, interested in Software Engineering and full‑stack development. I enjoy turning ideas into usable products quickly, especially in hackathons.
 
 ---
 
 ### 🔧 Technologies I Use
 
 - Languages: Python, Java, JavaScript, C, Assembly.
-- Web: HTML, CSS, React.js, FastAPI, Flask, Express.js.
-- Databases: MongoDB, PostgreSQL.
-- Tools & Platforms: Git/GitHub, Firebase, Railway, Vercel, Linux.
+- Web: HTML, CSS, React.js, FastAPI, Flask.
+- Databases: MongoDB, Firestore.
+- Tools & Platforms: Git/GitHub, Google Cloud Platform, Railway, Vercel, Linux.
 
 ---
 
@@ -39,16 +39,16 @@ Tech: React.js, Vite, TypeScript, Firebase Auth & Firestore.
 
 ### 💼 Experience & Activities
 
-- Swim Instructor & Lifeguard at Menlo Swim & Sport, teaching 30+ kids per week and ensuring safety at a high-traffic public pool.
-- University of Toronto Masters’ Swim Club member and longtime competitive swimmer with PASA.
-- Completed Meta Fullstack Developer course on Coursera and pre‑college/game design and cognitive science programs at Northeastern and UC San Diego.
+- Swim Instructor & Lifeguard at Menlo Swim & Sport, taught 30+ kids per week and ensured safety at Palo Alto's busiest pool.
+- University of Toronto Masters’ Swim Club member and swam competitively with PASA from 2015-2024.
+- Completed Meta React.js and JavaScript courses on Coursera and pre‑college/game design and cognitive science programs at Northeastern and UC San Diego.
 
 ---
 
 ### 📫 Let’s Connect
 
 - Portfolio: jacobdchan.com
-- LinkedIn: linkedin.com/in/jacobchan182[web:3]
+- LinkedIn: linkedin.com/in/jacobchan182
 - Email: jacob.chan@mail.utoronto.ca
 
-I’m currently looking for **software engineering / full‑stack internship** opportunities—happy to chat about roles, projects, or collaborations.
+I’m currently looking for **software engineering / full‑stack internship** opportunities, and I'm happy to chat about roles, projects, or collaborations!
